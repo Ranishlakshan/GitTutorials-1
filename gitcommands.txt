@@ -1,2 +1,26 @@
 hello world
  new line
+
+create a directory RapidApplicationDevelopment
+
+go to the directory RapidApplicationDevelopment
+
+create another directory call Module1
+
+go to module1
+
+creaete a filr index.html
+
+Add this filr to your GutHub account
+
+Modify the index.html as a welcome page of your Module1
+
+if you have use any .css or .js files for the design
+
+Create a diroctory resources inside Module1
+
+inside the resource create two diroctories css , js
+
+Move your .css and  .js files inside those directory
+
+push all of your changes to your changes to yur github account
