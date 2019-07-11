@@ -24,3 +24,6 @@ inside the resource create two diroctories css , js
 Move your .css and  .js files inside those directory
 
 push all of your changes to your changes to yur github account
+
+Ranish
+
